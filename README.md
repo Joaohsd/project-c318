@@ -37,33 +37,33 @@ Certifique-se de ativar o ambiente virtual antes de abrir os notebooks.
 
 ## Autores
 
-<div style="display: flex; gap: 10%;">
+<div style="display: flex; gap: 50px">
 <div>
   <a href="https://www.linkedin.com/in/joao-delfino/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/C5603AQGEYdwVWPqsjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1624286374358?e=1738195200&v=beta&t=gBmhjRO97P1EJfIbksrb24TQc-GEiInAtmKTnoDOGYU" alt="Imagem do Autor" width="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/C5603AQGEYdwVWPqsjQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1624286374358?e=1738195200&v=beta&t=gBmhjRO97P1EJfIbksrb24TQc-GEiInAtmKTnoDOGYU" alt="Imagem do Autor" width="120" style="border-radius: 100%; margin-bottom: 10px;">
   </a>
   <h3>João Delfino</h3>
   <p>
     <a href="https://github.com/Joaohsd" target="_blank" style="margin-right: 15px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" style="border-radius: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/joao-delfino/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="border-radius: 100%;">
     </a>
   </p>
 </div>
 
 <div>
   <a href="https://www.linkedin.com/in/paulolopestech/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFll5Z9bN7-1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732624923561?e=1738195200&v=beta&t=jCkEg5_gxNJYKR-HrbSL4Mnw9pXRkIboNg4kv9AXLGM" alt="Imagem do Autor" width="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQFll5Z9bN7-1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732624923561?e=1738195200&v=beta&t=jCkEg5_gxNJYKR-HrbSL4Mnw9pXRkIboNg4kv9AXLGM" alt="Imagem do Autor" width="120" style="border-radius: 100%; margin-bottom: 10px;">
   </a>
   <h3>Paulo Lopes</h3>
   <p>
     <a href="https://github.com/paulolopestech" target="_blank" style="margin-right: 15px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" style="border-radius: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/paulolopestech/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="border-radius: 100%;">
     </a>
   </p>
 </div>
@@ -72,48 +72,48 @@ Certifique-se de ativar o ambiente virtual antes de abrir os notebooks.
 <br/>
 <br/>
 
-<div style="display: flex; gap: 10%;">
+<div style="display: flex;  gap: 50px">
 <div>
   <a href="https://www.linkedin.com/in/pedrohrsilveira/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/C4D03AQFTPvXP7jMuyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1643390376829?e=1738195200&v=beta&t=EL3cRVGLolY-Xy5xxuKPJYqKQDXsZWfTky6_ufj1KOY" alt="Imagem do Autor" width="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/C4D03AQFTPvXP7jMuyA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1643390376829?e=1738195200&v=beta&t=EL3cRVGLolY-Xy5xxuKPJYqKQDXsZWfTky6_ufj1KOY" alt="Imagem do Autor" width="120" style="border-radius: 100%; margin-bottom: 10px;">
   </a>
   <h3>Pedro Henrique Silveira</h3>
   <p>
     <a href="https://github.com/Pedroriq" target="_blank" style="margin-right: 15px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" style="border-radius: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/pedrohrsilveira/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="border-radius: 100%;">
     </a>
   </p>
 </div>
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-dev/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEBYcRKXwM0EA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730646869943?e=1738195200&v=beta&t=eu5DnFVGl2VXo1gNh2gLJvrv38iJ0Qy8XemwB2XWbEM" alt="Imagem do Autor" width="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEBYcRKXwM0EA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730646869943?e=1738195200&v=beta&t=eu5DnFVGl2VXo1gNh2gLJvrv38iJ0Qy8XemwB2XWbEM" alt="Imagem do Autor" width="120" style="border-radius: 100%; margin-bottom: 10px;">
   </a>
   <h4>Pedro Henrique de Souza</h4>
   <p>
     <a href="https://github.com/pedrohdsouza" target="_blank" style="margin-right: 15px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" style="border-radius: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-dev/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="border-radius: 100%;">
     </a>
   </p>
 </div>
 
 <div>
   <a href="https://www.linkedin.com/in/pedroamota/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGH4PIeHF2Mbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730479760370?e=1738195200&v=beta&t=ml_4bKhihG4n1pgL6JPES1OcGlCb8MA_MwCs8NgPyic" alt="Imagem do Autor" width="120" style="border-radius: 50%; margin-bottom: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGH4PIeHF2Mbw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730479760370?e=1738195200&v=beta&t=ml_4bKhihG4n1pgL6JPES1OcGlCb8MA_MwCs8NgPyic" alt="Imagem do Autor" width="120" style="border-radius: 100%; margin-bottom: 10px;">
   </a>
   <h3>Pedro Mota</h3>
   <p>
     <a href="https://github.com/pedroamota" target="_blank" style="margin-right: 15px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" style="border-radius: 100%;">
     </a>
     <a href="https://www.linkedin.com/in/pedroamota/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" style="border-radius: 100%;">
     </a>
   </p>
 </div>
